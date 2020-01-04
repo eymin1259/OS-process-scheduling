@@ -1,4 +1,4 @@
-"#OS : process scheduling"
+OS : process scheduling
 
 implementation of process scheduling
 
