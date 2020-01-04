@@ -7,6 +7,7 @@ implementation of process scheduling
 3. Round Robin
 
 <설명>
+
 본 과제에서는 OS 수업시간의 부교재 OSTEP의 “7. Scheduling: Introduction”에 나온
 스케줄링 기법 중 3가지, First Come First Served(FCFS), Shorted Job First(SJF), Round Robin(RR) 기법을
 구현하게 됩니다. 여기서 RR기법의 time slice는 4로 정의합니다.
@@ -25,7 +26,9 @@ implementation of process scheduling
 ※ turnaround time과 response time의 정의 및 계산은 부교재 7장의 기준을 따릅니다. ※
 
 <예제 및 출력 형식>
+
 input
+
 2
 3
 0 10
@@ -38,6 +41,7 @@ input
 20 30
 
 output
+
 case1
 46 26 // FCFS
 34 14 // SJF
