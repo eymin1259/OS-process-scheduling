@@ -2,9 +2,9 @@ OS : process scheduling
 
 implementation of process scheduling
 
-First Come First Served
-Shortest Job First
-Round Robin
+1. First Come First Served
+2. Shortest Job First
+3. Round Robin
 
 <설명>
 본 과제에서는 OS 수업시간의 부교재 OSTEP의 “7. Scheduling: Introduction”에 나온
