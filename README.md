@@ -8,9 +8,9 @@ implementation of process scheduling
 
 <설명>
 
-본 과제에서는 OS 수업시간의 부교재 OSTEP의 “7. Scheduling: Introduction”에 나온
-스케줄링 기법 중 3가지, First Come First Served(FCFS), Shorted Job First(SJF), Round Robin(RR) 기법을
-구현하게 됩니다. 여기서 RR기법의 time slice는 4로 정의합니다.
+OS 수업시간의 부교재 OSTEP의 “7. Scheduling: Introduction”에 나온
+스케줄링 기법 중 3가지, First Come First Served(FCFS), Shorted Job First(SJF), Round Robin(RR) 기법을 구현. 
+여기서 RR기법의 time slice는 4로 정의합니다.
 
 프로그램의 입력으로는 먼저 testcase의 개수가 주어집니다. 그 뒤, job의 개수를 입력 받고
 그 수만큼의 job arrival time, job amount가 주어지며, 사용자는 입력을 받고
